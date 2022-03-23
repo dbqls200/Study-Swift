@@ -2,7 +2,7 @@
 ## 𝙎𝙬𝙞𝙛𝙩   𝙂𝙧𝙖𝙢𝙢𝙖𝙧   
 
 
-> #### ✓  22/03/10 (Thu)
+> #### ✅  22/03/10 (Thu)
 > >**1. Simple Types**
 > >- Variables 변수  
 > >- Strings and integers 문자열 & 정수    
@@ -15,7 +15,7 @@
 >   
 >   <br>
 >  
-> #### ✓  22/03/11 (Fri)
+> #### ✅  22/03/11 (Fri)
 > >**2. Complex Types**
 > >- Arrays 배열
 > >- Sets 세트
@@ -31,7 +31,7 @@
 >   
 >   <br>
 >  
-> #### ✓  22/03/14 (Mon)
+> #### ✅  22/03/14 (Mon)
 > >**3. Operators and conditions**
 > >- Arithmetic operators
 > >- Operator overloading
@@ -46,7 +46,7 @@
 >   
 >   <br>
 >  
-> #### ✓  22/03/15 (Tue)
+> #### ✅  22/03/15 (Tue)
 > >**4. Looping**
 > >- For loops
 > >- While loops
@@ -59,7 +59,7 @@
 >   
 >   <br>
 >  
-> #### ✓  22/03/16 (Wed)
+> #### ✅  22/03/16 (Wed)
 > >**5. Functions**
 > >- Writing functions
 > >- Accepting parameters
@@ -75,7 +75,7 @@
 >   
 >   <br>
 >  
-> #### ✓  22/03/17 (Thu)
+> #### ✅  22/03/17 (Thu)
 > >**6. Closures**
 > >- Creating basic closures
 > >- Accepting parameters in a closure
@@ -92,7 +92,7 @@
 >   
 >   <br>
 >  
-> #### ✓  22/03/18 (Fri)
+> #### ✅  22/03/18 (Fri)
 > >**7. Structs**
 > >- Creating your own structs
 > >- Computed properties
@@ -110,7 +110,7 @@
 >   
 >   <br>
 >  
-> #### ✓  22/03/21 (Mon)
+> #### ✅  22/03/21 (Mon)
 > >**8. Classes**
 > >- Creating your own classes
 > >- Class inheritance
@@ -123,7 +123,7 @@
 >   
 >   <br>
 >  
-> #### ✓  22/03/22 (Tue)
+> #### ✅  22/03/22 (Tue)
 > >**9. Protocols**
 > >- Protocols
 > >- Protocol inheritance
@@ -134,7 +134,7 @@
 >   
 >   <br>
 >  
-> #### ✓  22/03/23 (Wed)
+> #### ✅  22/03/23 (Wed)
 > >**10. Optionals**
 > >- Handling missing data
 > >- Unwrapping optionals

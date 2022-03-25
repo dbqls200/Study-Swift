@@ -13,7 +13,7 @@ final class ModelData: ObservableObject {
     var hikes: [Hike] = load("hikeData.json")
     @Published var profile = Profile.default
     
-    var featured: [Landmark] {
+    var features: [Landmark] {
         landmarks.filter { $0.isFeatured }
     }
     
